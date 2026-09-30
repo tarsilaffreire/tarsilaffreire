@@ -18,7 +18,9 @@
       <img src="https://github.com/user-attachments/assets/ab2d16d1-f1dd-4663-ab2d-6678a7b00e1b" width="120" alt="Avatar">
     </td>
     <td align="center" valign="middle">
-      <p>𝚑𝚎𝚕𝚕𝚘 𝚠𝚘𝚛𝚕𝚍! ᨳֹɞ </p>
+      <p>𝚑𝚎𝚕𝚕𝚘 𝚠𝚘𝚛𝚕𝚍!
+      ⠀:¨ ·.· ¨:
+⠀ `· . ꔫ  </p>
     </td>
   </tr>
 </table>
