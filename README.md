@@ -1,4 +1,5 @@
-<img width="736" height="132" alt="divider-removebg-preview" src="https://github.com/user-attachments/assets/56640241-d42c-4cfa-83e7-4e5305e0ab1c" />
+<img width="895" height="200" alt="download" src="https://github.com/user-attachments/assets/79f53580-8143-465e-b402-43005541fb5a" />
+
 
 <h2 align="center">
   <strong>Hi 👋, I'm Tarsila</strong>
