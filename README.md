@@ -2,9 +2,9 @@
   <img width="900" height="50" alt="download" src="https://64.media.tumblr.com/b417101d48702ed78c13decaf15e6756/4b335d59e06a694b-ff/s640x960/6f17a12a9d9fe624b08be29a19c809b8bd04725a.gifv" />
 </p>
 
-<h2 align="center">
+<h1 align="center" style="font-size: 3em;">
   <strong>tarsila</strong>
-</h2>
+</h1>
 
 
 <p align="center" size="10" >
