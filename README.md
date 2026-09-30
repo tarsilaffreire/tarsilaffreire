@@ -2,9 +2,6 @@
   <img width="450" height="90" alt="download" src="https://github.com/user-attachments/assets/79f53580-8143-465e-b402-43005541fb5a" />
 </p>
 
-
-
-
 <h2 align="center">
   <strong>Hi 👋, I'm Tarsila</strong>
 </h2>
@@ -12,3 +9,14 @@
 <p align="center">
   Estudante de Análise e Desenvolvimento de Sistemas
 </p>
+
+<table align="center">
+  <tr>
+    <td align="center" valign="middle">
+      <img src="blob:https://web.whatsapp.com/063cc847-2311-4128-a702-17d0b0e28efd" width="120" alt="Avatar">
+    </td>
+    <td align="center" valign="middle">
+      <p>𝚑𝚎𝚕𝚕𝚘 𝚠𝚘𝚛𝚕𝚍!</p>
+    </td>
+  </tr>
+</table>
