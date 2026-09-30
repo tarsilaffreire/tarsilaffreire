@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">
-  <strong>Hi 👋, I'm Tarsila</strong>
+  <strong>tarsila</strong>
 </h2>
 
 <p align="center" size="10" >
