@@ -6,16 +6,19 @@
   <strong>tarsila</strong>
 </h2>
 
+
 <p align="center" size="10" >
   Estudante de Análise e Desenvolvimento de Sistemas
 </p>
+
+
 <table align="center">
   <tr>
     <td align="center" valign="middle">
       <img src="https://github.com/user-attachments/assets/ab2d16d1-f1dd-4663-ab2d-6678a7b00e1b" width="120" alt="Avatar">
     </td>
     <td align="center" valign="middle">
-      <p>𝚑𝚎𝚕𝚕𝚘 𝚠𝚘𝚛𝚕𝚍!</p>
+      <p>𝚑𝚎𝚕𝚕𝚘 𝚠𝚘𝚛𝚕𝚍! ᨳֹɞ </p>
     </td>
   </tr>
 </table>
