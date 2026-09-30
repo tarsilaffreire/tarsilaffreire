@@ -6,7 +6,7 @@
   <strong>Hi 👋, I'm Tarsila</strong>
 </h2>
 
-<p align="center">
+<p align="center" size="10" >
   Estudante de Análise e Desenvolvimento de Sistemas
 </p>
 
