@@ -25,5 +25,5 @@
 </table>
 
 <h2 align="left" style="font-size=2.0rem";>
-  <strong>quem eu sou</strong>
-</h2>
+  <strong> </strong>
+</h2> <!-- vou terminar depois -->
