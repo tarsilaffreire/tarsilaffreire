@@ -23,3 +23,7 @@
     </td>
   </tr>
 </table>
+
+<h2 align="left">
+  <strong>quem eu sou</strong>
+</h2>
