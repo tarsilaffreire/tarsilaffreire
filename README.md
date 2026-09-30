@@ -24,6 +24,6 @@
   </tr>
 </table>
 
-<h2 align="left" size="8">
+<h2 align="left" font-size="10px">
   <strong>quem eu sou</strong>
 </h2>
