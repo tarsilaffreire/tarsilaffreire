@@ -15,7 +15,7 @@
 <table align="center">
   <tr>
     <td align="center" valign="middle">
-      <img src="https://github.com/user-attachments/assets/ab2d16d1-f1dd-4663-ab2d-6678a7b00e1b" width="120" alt="Avatar">
+      <img src="https://chatgpt.com/backend-api/estuary/content?id=file_000000006fa0820e9c4bb129b730ca33&ts=497497&p=fs&cid=1&sig=734ba10ca3ef3b06f32445589bd0b7a6f281a2c06074c42ab7dcaead931a8146&v=0" width="120" alt="Avatar">
     </td>
     <td align="center" valign="middle">
       <p>𝚑𝚎𝚕𝚕𝚘 𝚠𝚘𝚛𝚕𝚍!</p>
