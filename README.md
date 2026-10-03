@@ -11,7 +11,8 @@
 <table align="center">
   <tr>
     <td align="center" valign="middle">
-      <img src="https://github.com/user-attachments/assets/67efa92e-d3a2-4d62-ba1c-2cb53a4b28bd" width="150" alt="Estação Hacker com Código Verde" />
+      <img src="<img width="1024" height="1024" alt="Gemini_Generated_Image_qwebwdqwebwdqweb" src="https://github.com/user-attachments/assets/574cc2a9-a491-49b3-acba-0eea34530e0a" />
+" />
     </td>
     <td align="center" valign="middle">
       <p>hello world!</p>
