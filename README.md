@@ -1,4 +1,6 @@
-<img src="https://64.media.tumblr.com/4ce3d6e7de94eb27d8438e6210a14729/c659a957fc6c8b90-75/s1280x1920/07c8444177f58ae7a074e0a5e7e6573027d772ab.pnj">
+<p align="center">
+  <img src="https://64.media.tumblr.com/4ce3d6e7de94eb27d8438e6210a14729/c659a957fc6c8b90-75/s1280x1920/07c8444177f58ae7a074e0a5e7e6573027d772ab.png" width="100%" />
+</p>
 
 <h1 align="center" style="font-size: 3em;">
   <strong>tarsila</strong>
@@ -11,8 +13,7 @@
 <table align="center">
   <tr>
     <td align="center" valign="middle">
-      <img src="<img width="1024" height="1024" alt="Gemini_Generated_Image_qwebwdqwebwdqweb" src="https://github.com/user-attachments/assets/574cc2a9-a491-49b3-acba-0eea34530e0a" />
-" />
+      <img src="https://github.com/user-attachments/assets/574cc2a9-a491-49b3-acba-0eea34530e0a" width="150" alt="Avatar Tarsila" />
     </td>
     <td align="center" valign="middle">
       <p>hello world!</p>
