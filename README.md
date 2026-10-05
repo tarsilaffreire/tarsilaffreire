@@ -13,7 +13,7 @@
 <table align="center">
   <tr>
     <td align="center" valign="middle">
-      <img src="https://github.com/user-attachments/assets/574cc2a9-a491-49b3-acba-0eea34530e0a" width="150" alt="Avatar Tarsila" />
+      <img src="blob:https://web.whatsapp.com/5b7777f0-3877-49b9-9af8-23a54337b817" width="150" alt="Avatar Tarsila" />
     </td>
     <td align="center" valign="middle">
       <p>hello world!</p>
