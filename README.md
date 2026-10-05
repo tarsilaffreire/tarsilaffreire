@@ -14,7 +14,7 @@
 <table align="center">
   <tr>
     <td align="center" valign="middle">
-<img width="375" height="496" alt="WhatsApp Image 2026-10-05 at 11 58 22" src="https://github.com/user-attachments/assets/c82e06a2-6a99-4ff8-b67b-1b29e3af9ffa" />
+<img width="100" height="175" alt="WhatsApp Image 2026-10-05 at 11 58 22" src="https://github.com/user-attachments/assets/c82e06a2-6a99-4ff8-b67b-1b29e3af9ffa" />
     </td>
     <td align="center" valign="middle">
       <p>hello world!</p>
