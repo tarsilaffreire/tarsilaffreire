@@ -21,8 +21,13 @@
     </tr>
   </table>
 
-  <h2 align="left" style="font-size:2.0rem;">
+  <h2 align="left" style="font-size: 1rem;">
     <strong>quem eu sou?</strong>
   </h2>
+
+  <p align="left" style="font-size: 10px;">
+    Meu nome é <strong>Tarsila</strong> — Eu sou estudante de Análise e Desenvolvimento de Sistemas e estou construindo minha experiência na área de programação. Atualmente estudo Python, HTML, CSS, JavaScript, Git/Github e MySql, sempre buscando aprender através de projetos e prática. Estou em busca de novos conhecimentos e da minha primeira oportunidade de estágio na área de tecnologia.
+
+  </p>
 
   <img width="2038" height="20" alt="tumblr_70185c13a3cdc903f6d8b5078b7d6a27_9d6a726a_2048" src="https://github.com/user-attachments/assets/abdeaab1-5a46-4431-af72-7ad6f95bf372" />
