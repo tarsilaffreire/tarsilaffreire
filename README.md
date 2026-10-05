@@ -1,6 +1,5 @@
 <p align="center">
   <img width="735" height="46" alt="WhatsApp Image 2026-10-05 at 11 51 30" src="https://github.com/user-attachments/assets/dcb7c4a2-fa6e-4952-8bf2-b2bffd8bf6ae" />
-" width="100%" />
 </p>
 
 <h1 align="center" style="font-size: 3em;">
