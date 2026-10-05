@@ -21,8 +21,8 @@
     </tr>
   </table>
 
-  <p align="left" style="font-size: 10px;">
-    quem eu sou?
+  <p align="left" style="font-size: 15px;">
+    <strong>quem eu sou?</strong>
   </p>
 
   <h2 align="left" style="font-size:2.0rem;">
