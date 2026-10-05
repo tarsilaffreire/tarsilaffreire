@@ -17,7 +17,7 @@
 <img width="135" height="175" alt="WhatsApp Image 2026-10-05 at 11 58 22" src="https://github.com/user-attachments/assets/c82e06a2-6a99-4ff8-b67b-1b29e3af9ffa" />
     </td>
     <td align="center" valign="middle">
-      <p>hello world!</p>
+      <p>𝚙𝚛𝚒𝚗𝚝("𝙷𝚎𝚕𝚕𝚘 𝚆𝚘𝚛𝚕𝚍!")</p>
       <p>ʕ•ᴥ•ʔ</p>
     </td>
   </tr>
