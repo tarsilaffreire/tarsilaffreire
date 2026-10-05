@@ -16,7 +16,7 @@
       </td>
       <td align="center" valign="middle">
         <p>𝚙𝚛𝚒𝚗𝚝("𝚑𝚎𝚕𝚕𝚘 𝚠𝚘𝚛𝚕𝚍!"))</p>
-        <p>⋆˚࿔</p>
+        <p>⋆˚☆˖°⋆｡° ✮˖ ࣪ ⊹⋆.˚ ⊹ ⋆</p>
       </td>
     </tr>
   </table>
