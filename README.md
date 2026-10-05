@@ -26,18 +26,18 @@
   </h2>
 
   <p align="left" style="font-size: 10px;">
-    Meu nome é <strong>Tarsila</strong> — Eu sou estudante de Análise e Desenvolvimento de Sistemas e estou construindo minha experiência na área de programação. Atualmente estudo Python, HTML, CSS, JavaScript, Git/Github e MySql, sempre buscando aprender através de projetos e prática. Estou em busca de novos conhecimentos e da minha primeira oportunidade de estágio na área de tecnologia.
+    Meu nome é <strong>Tarsila</strong> — Eu sou estudante de Análise e Desenvolvimento de Sistemas no segundo semestre e estou construindo minha experiência na área de programação, sempre buscando aprender através de projetos e prática. Estou à procura de novos conhecimentos e da minha primeira oportunidade de estágio na área de tecnologia.
   </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
+  <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
 </p>
 
   <img width="2038" height="20" alt="tumblr_70185c13a3cdc903f6d8b5078b7d6a27_9d6a726a_2048" src="https://github.com/user-attachments/assets/abdeaab1-5a46-4431-af72-7ad6f95bf372" />
