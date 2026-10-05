@@ -29,6 +29,10 @@
     Meu nome é <strong>Tarsila</strong> — Eu sou estudante de Análise e Desenvolvimento de Sistemas no segundo semestre e estou construindo minha experiência na área de programação, sempre buscando aprender através de projetos e prática. Estou à procura de novos conhecimentos e da minha primeira oportunidade de estágio na área de tecnologia.
   </p>
 
+  <p align="center" style="font-size: 10px;">
+    _______________________________________________________________________________________
+  </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-1b222d?style=flat&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/HTML5-1b222d?style=flat&logo=html5&logoColor=E34F26" />
