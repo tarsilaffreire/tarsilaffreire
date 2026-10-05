@@ -21,8 +21,8 @@
     </tr>
   </table>
 
-  <p align="center" style="font-size: 10px;">
-    Estudante de Análise e Desenvolvimento de Sistemas
+  <p align="left" style="font-size: 10px;">
+    quem eu sou?
   </p>
 
   <h2 align="left" style="font-size:2.0rem;">
