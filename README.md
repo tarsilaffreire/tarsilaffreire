@@ -44,4 +44,8 @@
   <img src="https://img.shields.io/badge/VS_Code-1b222d?style=flat&logo=visual-studio-code&logoColor=007ACC" />
 </p>
 
+  <p align="center" style="font-size: 8px;">
+    tarsilafreirefeitosa@gmail.com
+  </p>
+
   <img width="2038" height="20" alt="tumblr_70185c13a3cdc903f6d8b5078b7d6a27_9d6a726a_2048" src="https://github.com/user-attachments/assets/abdeaab1-5a46-4431-af72-7ad6f95bf372" />
