@@ -6,9 +6,13 @@
   <strong>tarsila</strong>
 </h1>
 
-<p align="center" style="font-size: 18px;">
+<p align="center" style="font-size: 10px;">
   Estudante de Análise e Desenvolvimento de Sistemas
 </p>
+
+<p align="left" style="font-size: 18px;>
+quem sou eu?
+  </p>
 
 <table align="center">
   <tr>
