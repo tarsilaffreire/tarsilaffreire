@@ -13,8 +13,7 @@
 <table align="center">
   <tr>
     <td align="center" valign="middle">
-      <img src="<img width="395" height="475" alt="WhatsApp Image 2026-10-05 at 11 40 38" src="https://github.com/user-attachments/assets/e189fcf1-e095-4396-aba4-2aef014c7561" />
-" width="150" alt="Avatar Tarsila" />
+      <img src="blob:https://gemini.google.com/5ba0fc04-46d8-495c-bf8e-dca199cd14be" /> width="150" alt="Avatar Tarsila" />
     </td>
     <td align="center" valign="middle">
       <p>hello world!</p>
