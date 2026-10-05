@@ -5,7 +5,7 @@
     <strong>tarsila</strong>
   </h1>
 
-  <p align="center" style="font-size: 10px;">
+  <p align="center" style="font-size: 8px;">
     Estudante de Análise e Desenvolvimento de Sistemas
   </p>
 
@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/VS_Code-1b222d?style=flat&logo=visual-studio-code&logoColor=007ACC" />
 </p>
 
-  <p align="center" style="font-size: 8px;">
+  <p align="center" style="font-size: 4px;">
     tarsilafreirefeitosa@gmail.com
   </p>
 
