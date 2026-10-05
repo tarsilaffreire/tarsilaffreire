@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://64.media.tumblr.com/d84cdacaaaaf288cdd6c8e61fba47f5b/9f40624fb93ae11e-4e/s2048x3072/0cd5fc1dc4fcde6eb720b2a1ede5cf141efa0355.gifv" width="100%" />
+  <img width="735" height="46" alt="WhatsApp Image 2026-10-05 at 11 51 30" src="https://github.com/user-attachments/assets/dcb7c4a2-fa6e-4952-8bf2-b2bffd8bf6ae" />
+" width="100%" />
 </p>
 
 <h1 align="center" style="font-size: 3em;">
