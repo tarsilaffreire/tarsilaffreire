@@ -1,6 +1,7 @@
 <p align="center">
-  <img width="735" height="46" alt="WhatsApp Image 2026-10-05 at 11 51 30" src="https://github.com/user-attachments/assets/dcb7c4a2-fa6e-4952-8bf2-b2bffd8bf6ae" />
-</p>
+  
+<img width="2038" height="20" alt="tumblr_70185c13a3cdc903f6d8b5078b7d6a27_9d6a726a_2048" src="https://github.com/user-attachments/assets/abdeaab1-5a46-4431-af72-7ad6f95bf372" />
+
 
 <h1 align="center" style="font-size: 3em;">
   <strong>tarsila</strong>
